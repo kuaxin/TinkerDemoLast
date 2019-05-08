@@ -7,7 +7,7 @@ import com.tinkerpatch.sdk.TinkerPatch;
 
 /**
  * Create by Rgx on 2019/5/8 9:14
- * Description:
+ * Description: 张文强到此有已有哦是下
  */
 public class FetchPatchHandler extends Handler {
     public static final long HOUR_INTERVAL = 3600 * 1000;
